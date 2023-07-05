@@ -1,0 +1,109 @@
+body{
+    font-family: 'Belanosima', sans-serif;
+    color: rgb(36, 36, 36);
+    margin: 0;
+    }
+.orange {
+    color: rgb(255, 111, 0) !important;
+}    
+h1 { 
+    font-weight: bold !important;
+}
+section {
+    display: flex !important;
+}
+.half-width {
+    width: 50%!important;
+}
+.para01 {
+    margin-left: 80px;
+    margin-top: 110px;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.img01 {
+    margin-right: -55PX;
+    margin-top: 50PX;
+    margin-bottom: -30PX;
+}
+.section01 {
+    background-image: url(images/shapes/7.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    }
+.order-now {
+    font-weight: 500;
+    background-image: linear-gradient(to right, orange, rgba(255, 0, 0, 0.662));
+    text-decoration: none;
+    color: white !important;
+    padding: 10px 30px;
+    border-radius: 30px;
+    box-shadow: 0 0 5px 1px rgba(255, 153, 0, 0.586);
+    font-size: smaller;
+   }
+   .button01 {
+    margin-top: 50px;
+   }    
+   .section02 {
+    background-image: url(images/shapes/Frame56.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+   }
+   .img02 {
+    margin-top: 100px;
+    margin-left: 100PX;
+    height: 500px;
+   }
+   .para02 {
+    margin-top: 150px;
+    margin-right: 50px;
+   }
+   .para03 {
+    text-align: center;
+    margin-top: 50px;
+   }
+   .para03 p{ 
+    width: 45%;
+    margin: 0 30% 50px 30%;
+   }
+   .img-bottom {
+    width: 500px;
+    border-radius: 25px;
+}
+.recipies-para {
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 10px 10px rgba(224, 224, 224, 0.608);
+    border-radius: 30px;
+    padding: 15px;
+    width: 30%;
+    margin-bottom: 80px;
+    }
+.social-media {
+    width: 40%;
+   
+    margin-left: 10%;
+    margin-right: 10%;
+    /* margin-bottom: 50px; */ */
+}
+.section04 {
+    box-shadow: 10px 10px 10px 10px rgba(224, 224, 224, 0.608);
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+   
+}
+footer {
+    color: rgb(125, 125, 125);
+    text-align: center;
+    background-color: black;
+    padding: 5px;
+}
+.white {
+    color: aliceblue;
+    font-weight: lighter;
+}
